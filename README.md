@@ -21,4 +21,9 @@ Hi! My name is **Petr Gajdosik** and on the waves of Internet I'm known as **Tar
 
 ---
 
-<p align = "center">Consider showing some love by starring and supporting me or my projects ❤️</p>
+<p align="center">Consider showing some love by starring and supporting me or my projects ❤️</p>
+<p align="center">
+  <a href="https://ko-fi.com/Q5Q215CZY">
+    <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+  </a>
+</p>
